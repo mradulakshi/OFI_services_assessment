@@ -49,7 +49,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/NexGen-Warehouse-Optimization.git
+git clone https://github.com/mradulakshi/OFI_services_assessment
 cd NexGen-Warehouse-Optimization
 ```
 
